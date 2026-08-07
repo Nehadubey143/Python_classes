@@ -107,3 +107,12 @@
 #  Instagram,
 #  Flipkart
 #  Amazon etc.
+# Create a registration form just like Google Form
+
+# Forms:
+
+# Ankit 
+https://docs.google.com/forms/d/e/1FAIpQLScmUasQqcyObW3vs2Nhk2wMkpV5PwLWO2vmlE1UxKs0UIlCgQ/viewform?usp=dialog
+
+# Gulam 
+https://docs.google.com/forms/d/e/1FAIpQLScrpsz_G-qrWMKIRYVVlBbJ5k4Gs
